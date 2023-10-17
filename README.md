@@ -5,9 +5,9 @@ Poniendo en práctica lo aprendido en el boot camp logré realizar un clon del e
 ## 1.Intro
 El proyecto fue creado con **HTML** y **CSS**. Se trata del navegador más usado: la interfaz Google.
 * Puedes visitar el sitio del siguiente enlace
-* ![Clon de Google](imagenes/Captura-Clon-Google.png)
+![Clon de Google](imagenes/Captura-Clon-Google.png)
 
-**Inspirate de la realización de este proyecto, utiliza tu destreza para demostrarque tu futuro es ser desarrolladora frontend 💪**
+**Inspirate de la realización de este proyecto, utiliza tu destreza para demostrar que tu futuro es ser desarrolladora frontend 💪**
 
 # Contenido del proyecto
 1. Header
